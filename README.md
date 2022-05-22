@@ -21,3 +21,10 @@ HTML, CSS, Javascript, Node.js
 
 ![README-Terminal](https://user-images.githubusercontent.com/100390351/169710301-f9aa2a83-22af-42f2-8b2f-518bbcb4ade1.jpg)
 
+
+## Review
+
+<ul>
+  <li>
+    A walk through video in the terminal: https://drive.google.com/file/d/1S_I6oqM6-HcEleE8Onp-v0khx16CRB3Y/view
+  </li>
