@@ -31,3 +31,5 @@ HTML, CSS, Javascript, Node.js
 <li>
   A URL of the GITHUB REPO: https://github.com/CannibalClarence/README-Generator
   </li>
+  <li>
+    A sample Screenshot of README.md: href: ./README(2).jpeg
