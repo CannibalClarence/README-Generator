@@ -28,3 +28,6 @@ HTML, CSS, Javascript, Node.js
   <li>
     A walk through video in the terminal: https://drive.google.com/file/d/1SyUvCfg3fYOXLX6CdJq5xvR2d3QqgSNI/view
   </li>
+<li>
+  A URL of the GITHUB REPO: https://github.com/CannibalClarence/README-Generator
+  </li>
